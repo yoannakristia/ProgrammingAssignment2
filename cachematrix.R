@@ -1,5 +1,5 @@
--## makeCacheMatrix
--##is a function that returns a list of functions
+## makeCacheMatrix
+##is a function that returns a list of functions
 # Its puspose is to store a martix and a cached value of the inverse of the 
 # matrix. Contains the following functions:
 # * setMatrix      set the value of a matrix
